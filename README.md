@@ -3,6 +3,8 @@
 2. NTU Hsuan-Tien Lin https://www.csie.ntu.edu.tw/~htlin/course/
 3. UFLDL http://ufldl.stanford.edu/tutorial/  http://ufldl.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B
 4. Book [Deep Learning] http://www.deeplearningbook.org/
+5. Book [NN and DL] http://neuralnetworksanddeeplearning.com/index.html
+
 
 
 # Tips
@@ -21,6 +23,8 @@
 
    http://www.ruanyifeng.com/blog/2011/08/bayesian_inference_part_one.html
    http://www.ruanyifeng.com/blog/2011/08/bayesian_inference_part_two.html
+   http://www.ruanyifeng.com/blog/2012/10/spelling_corrector.html
+   
    
    https://zhuanlan.zhihu.com/p/32825019
    
