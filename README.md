@@ -15,3 +15,16 @@
    https://www.youtube.com/watch?v=3liCbRZPrZA
    
    https://monkeylearn.com/blog/introduction-to-support-vector-machines-svm/
+
+
+2. Bayes’ Theorem
+
+   http://www.ruanyifeng.com/blog/2011/08/bayesian_inference_part_one.html
+   http://www.ruanyifeng.com/blog/2011/08/bayesian_inference_part_two.html
+   
+   https://zhuanlan.zhihu.com/p/32825019
+   
+   http://www.paulgraham.com/spam.html
+   http://www.paulgraham.com/better.html
+   
+   
