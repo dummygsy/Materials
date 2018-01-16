@@ -27,13 +27,17 @@ http://cs224d.stanford.edu/index.html
 2. Bayes’ Theorem
 
    http://www.ruanyifeng.com/blog/2011/08/bayesian_inference_part_one.html
+   
    http://www.ruanyifeng.com/blog/2011/08/bayesian_inference_part_two.html
+   
    http://www.ruanyifeng.com/blog/2012/10/spelling_corrector.html
    
    
    https://zhuanlan.zhihu.com/p/32825019
    
+   
    http://www.paulgraham.com/spam.html
+  
    http://www.paulgraham.com/better.html
    
    
