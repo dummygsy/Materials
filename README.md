@@ -37,6 +37,8 @@ http://cs224d.stanford.edu/index.html
    
    http://www.paulgraham.com/spam.html
   
-   http://www.paulgraham.com/better.html
+   http://www.paulgraham.com/better.html  
+   
+   http://norvig.com/spell-correct.html
    
    
