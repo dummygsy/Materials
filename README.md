@@ -38,7 +38,10 @@ http://cs224d.stanford.edu/index.html
    http://www.paulgraham.com/spam.html
   
    http://www.paulgraham.com/better.html  
+    
    
    http://norvig.com/spell-correct.html
    
-   
+
+3. NLP
+   https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/?spm=5176.100239.blogcont64433.15.107f430fcSggYf
