@@ -46,3 +46,5 @@ http://cs224d.stanford.edu/index.html
 3. NLP  
 
    https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/?spm=5176.100239.blogcont64433.15.107f430fcSggYf
+   
+   [word2vec 中的数学原理详解]http://suanfazu.com/t/word2vec-zhong-de-shu-xue-yuan-li-xiang-jie-duo-tu-wifixia-yue-du/178
