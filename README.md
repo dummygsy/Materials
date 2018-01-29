@@ -25,10 +25,8 @@ http://cs224d.stanford.edu/index.html
 
 2. Bayes’ Theorem
 
-   http://www.ruanyifeng.com/blog/2011/08/bayesian_inference_part_one.html
-   
-   http://www.ruanyifeng.com/blog/2011/08/bayesian_inference_part_two.html
-   
+   http://www.ruanyifeng.com/blog/2011/08/bayesian_inference_part_one.html   
+   http://www.ruanyifeng.com/blog/2011/08/bayesian_inference_part_two.html   
    http://www.ruanyifeng.com/blog/2012/10/spelling_corrector.html
    
    
@@ -53,4 +51,6 @@ http://cs224d.stanford.edu/index.html
    
    http://blog.christianperone.com/2011/09/machine-learning-text-feature-extraction-tf-idf-part-i/
    http://blog.christianperone.com/2011/10/machine-learning-text-feature-extraction-tf-idf-part-ii/
-   http://blog.christianperone.com/2013/09/machine-learning-cosine-similarity-for-vector-space-models-part-iii/
+   http://blog.christianperone.com/2013/09/machine-learning-cosine-similarity-for-vector-space-models-part-iii/  
+   
+   https://nlp.stanford.edu/IR-book/html/htmledition/irbook.html
