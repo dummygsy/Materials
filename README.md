@@ -49,4 +49,8 @@ http://cs224d.stanford.edu/index.html
    
    [word2vec 中的数学原理详解]http://suanfazu.com/t/word2vec-zhong-de-shu-xue-yuan-li-xiang-jie-duo-tu-wifixia-yue-du/178  
    
-   http://licstar.net/archives/328
+   http://licstar.net/archives/328  
+   
+   http://blog.christianperone.com/2011/09/machine-learning-text-feature-extraction-tf-idf-part-i/
+   http://blog.christianperone.com/2011/10/machine-learning-text-feature-extraction-tf-idf-part-ii/
+   http://blog.christianperone.com/2013/09/machine-learning-cosine-similarity-for-vector-space-models-part-iii/
