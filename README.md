@@ -54,3 +54,8 @@ http://cs224d.stanford.edu/index.html
    http://blog.christianperone.com/2013/09/machine-learning-cosine-similarity-for-vector-space-models-part-iii/  
    
    https://nlp.stanford.edu/IR-book/html/htmledition/irbook.html
+   
+4. Similarity Check  
+   http://search.cpan.org/dist/WordNet-Similarity/lib/WordNet/Similarity.pm  
+   
+   http://api.cortical.io/
