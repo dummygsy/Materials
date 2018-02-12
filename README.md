@@ -58,4 +58,7 @@ http://cs224d.stanford.edu/index.html
 4. Similarity Check  
    http://search.cpan.org/dist/WordNet-Similarity/lib/WordNet/Similarity.pm  
    
-   http://api.cortical.io/
+   http://api.cortical.io/  
+   
+5. Bot  
+   https://channel9.msdn.com/events/Build/2017/P4114
