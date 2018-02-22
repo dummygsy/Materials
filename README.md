@@ -53,7 +53,11 @@ http://cs224d.stanford.edu/index.html
    http://blog.christianperone.com/2011/10/machine-learning-text-feature-extraction-tf-idf-part-ii/
    http://blog.christianperone.com/2013/09/machine-learning-cosine-similarity-for-vector-space-models-part-iii/  
    
-   https://nlp.stanford.edu/IR-book/html/htmledition/irbook.html
+   https://nlp.stanford.edu/IR-book/html/htmledition/irbook.html  
+   
+   http://www.nltk.org/book/
+   
+   
    
 4. Similarity Check  
    http://search.cpan.org/dist/WordNet-Similarity/lib/WordNet/Similarity.pm  
