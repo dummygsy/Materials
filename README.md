@@ -70,6 +70,8 @@ http://cs224d.stanford.edu/index.html
     Intro: http://radimrehurek.com/gensim/models/word2vec.html  
 	
     Tutorial: http://radimrehurek.com/2014/02/word2vec-tutorial/  
+    https://rare-technologies.com/doc2vec-tutorial/  
+    
    
 6. Bot  
    https://channel9.msdn.com/events/Build/2017/P4114
