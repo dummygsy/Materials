@@ -74,4 +74,8 @@ http://cs224d.stanford.edu/index.html
     
    
 6. Bot  
-   https://channel9.msdn.com/events/Build/2017/P4114
+   https://channel9.msdn.com/events/Build/2017/P4114  
+   
+7. BIM  
+   https://bim360.autodesk.com/#  
+   https://cad.ai/
