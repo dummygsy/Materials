@@ -55,7 +55,9 @@ http://cs224d.stanford.edu/index.html
    
    https://nlp.stanford.edu/IR-book/html/htmledition/irbook.html  
    
-   http://www.nltk.org/book/
+   http://www.nltk.org/book/  
+   
+   https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/
    
    
    
