@@ -92,3 +92,10 @@ http://cs224d.stanford.edu/index.html
 10. Universal Approximation Theorem  
    https://www.youtube.com/watch?v=Ijqkc7OLenI  
    
+11. Azure LUIS     
+   https://www.youtube.com/watch?v=jWeLajon9M8  
+   https://www.youtube.com/watch?v=39L0Gv2EcSk  
+   
+   
+   
+   
