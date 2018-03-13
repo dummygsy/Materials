@@ -57,17 +57,21 @@ http://cs224d.stanford.edu/index.html
    
    http://www.nltk.org/book/  
    
-   https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/
+   https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/  
+   
+   
+4. Tranfer Learning  
+   https://www.zybuluo.com/liuhui0803/note/644770
    
    
    
-4. Similarity Check  
+5. Similarity Check  
    http://search.cpan.org/dist/WordNet-Similarity/lib/WordNet/Similarity.pm  
    
    http://api.cortical.io/  
 
 
-5. Word2Vec
+6. Word2Vec
 
     Intro: http://radimrehurek.com/gensim/models/word2vec.html  
 	
@@ -75,9 +79,9 @@ http://cs224d.stanford.edu/index.html
     https://rare-technologies.com/doc2vec-tutorial/  
     
    
-6. Bot  
+7. Bot  
    https://channel9.msdn.com/events/Build/2017/P4114  
    
-7. BIM  
+8. BIM  
    https://bim360.autodesk.com/#  
    https://cad.ai/
