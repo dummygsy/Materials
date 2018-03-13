@@ -87,4 +87,8 @@ http://cs224d.stanford.edu/index.html
    https://cad.ai/  
      
 9. MCTS  
-   https://zhuanlan.zhihu.com/p/25345778
+   https://zhuanlan.zhihu.com/p/25345778  
+   
+10. Universal Approximation Theorem  
+   https://www.youtube.com/watch?v=Ijqkc7OLenI  
+   
