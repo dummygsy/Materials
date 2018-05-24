@@ -97,19 +97,20 @@ http://cs224d.stanford.edu/index.html
    LUIS Advanced Feature: https://www.youtube.com/watch?v=39L0Gv2EcSk  
    
 12. MS AI Vision OpenHack 2018: 3D CNN
-   https://github.com/ellisdg/3DUnetCNN: Keras 3D U-Net Convolution Neural Network (CNN) designed for medical image segmentation  
+   * https://github.com/ellisdg/3DUnetCNN: Keras 3D U-Net Convolution Neural Network (CNN) designed for medical image segmentation  
    
-   https://github.com/jibikbam/CNN-3D-images-Tensorflow/blob/master/simpleCNN_MRI.py: MRI 3d case  
+   * https://github.com/jibikbam/CNN-3D-images-Tensorflow/blob/master/simpleCNN_MRI.py: MRI 3d case  
 
-   https://github.com/keras-team/keras/pull/1623  
+   * https://github.com/keras-team/keras/pull/1623  
    
-   https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.pdf  
+   * https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.pdf  
    
-   https://www.quora.com/Where-can-I-find-examples-of-3D-CNN-in-Keras  
+   * https://www.quora.com/Where-can-I-find-examples-of-3D-CNN-in-Keras  
    
-   https://stackoverflow.com/questions/41830723/batch-normalization-with-3d-convolutions-in-tensorflow     
+   * https://stackoverflow.com/questions/41830723/batch-normalization-with-3d-convolutions-in-tensorflow     
    
-13. MS AI Vision OpenHack 2018
+13. MS AI Vision OpenHack 2018  
+
    (1) Use case of AML Computer Vision and Cognitive Services: https://www.microsoft.com/developerblog/2018/05/07/handwriting-detection-and-recognition-in-scanned-documents-using-azure-ml-package-computer-vision-azure-cognitive-services-ocr/  
    
    (2) Computer Vision and Transfer Learning by Nigel Parke: https://channel9.msdn.com/Shows/AI-Show/Demystifying-AI  
