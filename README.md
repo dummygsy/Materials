@@ -111,23 +111,23 @@ http://cs224d.stanford.edu/index.html
    
 13. MS AI Vision OpenHack 2018  
 
-   (1) Use case of AML Computer Vision and Cognitive Services: https://www.microsoft.com/developerblog/2018/05/07/handwriting-detection-and-recognition-in-scanned-documents-using-azure-ml-package-computer-vision-azure-cognitive-services-ocr/  
+   * Use case of AML Computer Vision and Cognitive Services: https://www.microsoft.com/developerblog/2018/05/07/handwriting-detection-and-recognition-in-scanned-documents-using-azure-ml-package-computer-vision-azure-cognitive-services-ocr/  
    
-   (2) Computer Vision and Transfer Learning by Nigel Parke: https://channel9.msdn.com/Shows/AI-Show/Demystifying-AI  
+   * Computer Vision and Transfer Learning by Nigel Parke: https://channel9.msdn.com/Shows/AI-Show/Demystifying-AI  
    
-   (2.b) Code Example: https://github.com/nzigel/Custom-Vision-Generator/blob/master/PythonNotebook/Custom%20Vision%20Object%20Detection.ipynb  
+   * Nigel Park Code Example: https://github.com/nzigel/Custom-Vision-Generator/blob/master/PythonNotebook/Custom%20Vision%20Object%20Detection.ipynb  
        
-   (3) How to build Keras + deep learning REST API: https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html  
+   * How to build Keras + deep learning REST API: https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html  
    
-   (4) Image Clarificaiton by Keras: https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html  
+   * Image Clarificaiton by Keras: https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html  
    
-   (5) PIL python package - Normalization: https://stackoverflow.com/questions/7422204/intensity-normalization-of-image-using-pythonpil-speed-issues  
+   * PIL python package - Normalization: https://stackoverflow.com/questions/7422204/intensity-normalization-of-image-using-pythonpil-speed-issues  
    
-   (6) OpenCV info : https://docs.opencv.org/3.1.0/d5/daf/tutorial_py_histogram_equalization.html  
+   * OpenCV info : https://docs.opencv.org/3.1.0/d5/daf/tutorial_py_histogram_equalization.html  
    
-   (7) Image Clarificaiton Example: https://github.com/CloudBreadPaPa/keras-image-class/blob/master/categorical-classification-keras.py  
+   * Image Clarificaiton Example: https://github.com/CloudBreadPaPa/keras-image-class/blob/master/categorical-classification-keras.py  
    
-   (8) Real-Time Object Detection: https://github.com/AlexeyAB/darknet  
+   * Real-Time Object Detection: https://github.com/AlexeyAB/darknet  
    
-   (9) How to build a Restful API: https://towardsdatascience.com/a-flask-api-for-serving-scikit-learn-models-c8bcdaa41daa  
+   * How to build a Restful API: https://towardsdatascience.com/a-flask-api-for-serving-scikit-learn-models-c8bcdaa41daa  
    
