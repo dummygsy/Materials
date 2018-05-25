@@ -116,7 +116,9 @@ http://cs224d.stanford.edu/index.html
    * Computer Vision and Transfer Learning by Nigel Parke: https://channel9.msdn.com/Shows/AI-Show/Demystifying-AI  
    
    * Nigel Park Code Example: https://github.com/nzigel/Custom-Vision-Generator/blob/master/PythonNotebook/Custom%20Vision%20Object%20Detection.ipynb  
-       
+   
+   * Nigel Park Blog https://medium.com/@nzigel/building-a-classification-model-for-android-ios-and-windows-ml-using-customvision-ai-5fa70d5b2303  
+          
    * How to build Keras + deep learning REST API: https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html  
    
    * Image Clarificaiton by Keras: https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html  
